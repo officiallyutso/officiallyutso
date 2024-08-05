@@ -20,7 +20,6 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officiallyutso&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallyutso&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
