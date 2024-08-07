@@ -1,7 +1,7 @@
 <!-- Profile Readme Header -->
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  <h2>Welcome to My GitHub Profile!</h2>
+  <h2>Welcome to My GitHub Profile! Open for <i>FREELANCING</i></h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Machine+Learning+Enthusiast;Python+Developer;Student+at+IIT+Roorkee;Open+to+Collaborations+%26+Ideas;Lifelong+Learner" alt="Typing SVG"/>
 </div>
 
