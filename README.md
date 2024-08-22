@@ -10,9 +10,9 @@
 <!-- About Me Section -->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Utso Sarkar!
 
-- 🎓 Studying at **IIT Roorkee**
+- 🎓 Studying at **IIT Roorkee** 
 - 🌱 Currently working on **Trading Strategy using Bollinger Bands and Supertrend Indicators**
-- 💻 Experienced in **Machine Learning and AI** with projects like **Emotion Detector** and **Pathfinding using A*** 
+- 💻 Experienced in **Machine Learning and AI** with projects like **Emotion Detector ** and **Pathfinding using A* Algorithm** 
 - 🤝 Open to collaborating on exciting projects and innovative ideas
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utso/) | [Email](mailto:utsosarkar1@gmail.com)
 
