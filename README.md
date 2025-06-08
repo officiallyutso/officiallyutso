@@ -20,9 +20,18 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=officiallyutso&show_icons=true&theme=radical" alt="officiallyutso's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=officiallyutso&theme=radical" alt="officiallyutso's GitHub Streak" />
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=officiallyutso&show_icons=true&theme=radical" 
+        alt="officiallyutso's GitHub Stats" 
+        width="400"
+    />
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=officiallyutso&theme=radical" 
+        alt="officiallyutso's GitHub Streak" 
+        width="400"
+    />
 </div>
+
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officiallyutso&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
