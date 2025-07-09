@@ -2,11 +2,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
   <h2>Welcome to My GitHub Profile! Open for <i>FREELANCING</i></h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=600&lines=Founder+of+Strato+Inc.+%7C+AI+Dev+++++;LLM+Engineer+%7C+Ollama+%7C+RAG+Tooling+++;Flutter+%7C+Python+%7C+Backend+Developer+;Building+AI+Apps+%26+System+Tools++++;Open+to+Collab+%7C+Freelance+%7C+OSS+;Student+at+IIT+Roorkee+%7C+India++++" alt="Typing SVG"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=600&center=true&lines=Founder+of+Strato+Inc.+%7C+AI+Dev+++++;LLM+Engineer+%7C+Ollama+%7C+RAG+Tooling+++;Flutter+%7C+Python+%7C+Backend+Developer+;Building+AI+Apps+%26+System+Tools++++;Open+to+Collab+%7C+Freelance+%7C+OSS+;Student+at+IIT+Roorkee+%7C+India++++" alt="Typing SVG"/>
 
 
 </div>
+
+
 
 ---
 
